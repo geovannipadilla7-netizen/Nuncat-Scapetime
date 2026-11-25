@@ -1,0 +1,8 @@
+{
+  "name": "Nuncat Scapetime",
+  "description": "Mobile horror game launcher and embedded web player for Nuncat Scapetime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

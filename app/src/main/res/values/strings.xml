@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Nuncat Scapetime</string>
+    <string name="game_subtitle">Edición Beta</string>
+    <string name="loading_portal">Abriendo el portal a la abadía…</string>
+    <string name="loading_progress_percent">%1$d%%</string>
+    <string name="show_game_now">Entrar ahora</string>
+    <string name="menu_button_cd">Abrir menú del juego</string>
+    <string name="menu_title">Opciones del Juego</string>
+    <string name="status_online">Conectado</string>
+    <string name="status_offline">Sin conexión</string>
+    <string name="action_reload">Recargar juego</string>
+    <string name="action_home">Ir al inicio</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_forward">Adelante</string>
+    <string name="action_open_browser">Abrir en navegador</string>
+    <string name="setting_immersive">Pantalla completa inmersiva</string>
+    <string name="setting_immersive_desc">Oculta las barras del sistema durante la partida</string>
+    <string name="setting_keep_screen_on">Mantener pantalla activa</string>
+    <string name="setting_keep_screen_on_desc">Evita que el dispositivo se suspenda mientras juegas</string>
+    <string name="error_title">No se pudo conectar</string>
+    <string name="error_offline_message">Parece que no tienes conexión a internet. Conéctate e inténtalo de nuevo.</string>
+    <string name="error_generic_message">Ocurrió un error al cargar el juego (%1$s).</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="exit_dialog_title">¿Abandonar la abadía?</string>
+    <string name="exit_dialog_message">¿Seguro que quieres salir de Nuncat Scapetime?</string>
+    <string name="exit_dialog_confirm">Salir</string>
+    <string name="exit_dialog_cancel">Seguir jugando</string>
+    <string name="cover_art_cd">Portada de Nuncat Scapetime</string>
+</resources>
